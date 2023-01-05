@@ -1,0 +1,282 @@
+﻿++Solution 'SocialMedia' ‎(5 of 5 projects)
+i:{00000000-0000-0000-0000-000000000000}:SocialMedia.sln
+++SocialMedia.Api
+i:{00000000-0000-0000-0000-000000000000}:SocialMedia.Api
+++Connected Services 
+i:{2ff36dad-a9eb-430b-9ca5-addd603c4b88}:>1081
+++Dependencies
+i:{2ff36dad-a9eb-430b-9ca5-addd603c4b88}:>1080
+i:{19d7a6e2-eb91-404f-aabe-0139cb814aa9}:>663
+i:{e5efcd57-c0aa-4c2a-9309-81f3b1f66951}:>664
+i:{a8477c93-1413-4d29-8409-7e3ba55b0bfb}:>943
+i:{aeb23569-1cca-4d08-9d10-993fcc706980}:>944
+++Properties
+i:{2ff36dad-a9eb-430b-9ca5-addd603c4b88}:c:\users\usuario\source\repos\socialmedia\socialmedia.api\properties\
+++Controllers
+i:{2ff36dad-a9eb-430b-9ca5-addd603c4b88}:c:\users\usuario\source\repos\socialmedia\socialmedia.api\controllers\
+++PostController.cs
+i:{2ff36dad-a9eb-430b-9ca5-addd603c4b88}:c:\users\usuario\source\repos\socialmedia\socialmedia.api\controllers\postcontroller.cs
+++SecurityController.cs
+i:{2ff36dad-a9eb-430b-9ca5-addd603c4b88}:c:\users\usuario\source\repos\socialmedia\socialmedia.api\controllers\securitycontroller.cs
+++TokenController.cs
+i:{2ff36dad-a9eb-430b-9ca5-addd603c4b88}:c:\users\usuario\source\repos\socialmedia\socialmedia.api\controllers\tokencontroller.cs
+++Reponses
+i:{2ff36dad-a9eb-430b-9ca5-addd603c4b88}:c:\users\usuario\source\repos\socialmedia\socialmedia.api\reponses\
+++appsettings.json
+i:{2ff36dad-a9eb-430b-9ca5-addd603c4b88}:c:\users\usuario\source\repos\socialmedia\socialmedia.api\appsettings.json
+++Program.cs
+i:{2ff36dad-a9eb-430b-9ca5-addd603c4b88}:c:\users\usuario\source\repos\socialmedia\socialmedia.api\program.cs
+++Startup.cs
+i:{2ff36dad-a9eb-430b-9ca5-addd603c4b88}:c:\users\usuario\source\repos\socialmedia\socialmedia.api\startup.cs
+++web.config
+i:{2ff36dad-a9eb-430b-9ca5-addd603c4b88}:c:\users\usuario\source\repos\socialmedia\socialmedia.api\web.config
+++No service dependencies discovered
+i:{2ff36dad-a9eb-430b-9ca5-addd603c4b88}:>1082
+++Analyzers
+i:{2ff36dad-a9eb-430b-9ca5-addd603c4b88}:analyzers
+i:{19d7a6e2-eb91-404f-aabe-0139cb814aa9}:analyzers
+i:{e5efcd57-c0aa-4c2a-9309-81f3b1f66951}:analyzers
+i:{a8477c93-1413-4d29-8409-7e3ba55b0bfb}:analyzers
+i:{aeb23569-1cca-4d08-9d10-993fcc706980}:analyzers
+++Frameworks
+i:{2ff36dad-a9eb-430b-9ca5-addd603c4b88}:frameworks
+i:{19d7a6e2-eb91-404f-aabe-0139cb814aa9}:frameworks
+i:{e5efcd57-c0aa-4c2a-9309-81f3b1f66951}:frameworks
+i:{a8477c93-1413-4d29-8409-7e3ba55b0bfb}:frameworks
+i:{aeb23569-1cca-4d08-9d10-993fcc706980}:frameworks
+++Packages
+i:{2ff36dad-a9eb-430b-9ca5-addd603c4b88}:packages
+i:{19d7a6e2-eb91-404f-aabe-0139cb814aa9}:packages
+i:{e5efcd57-c0aa-4c2a-9309-81f3b1f66951}:packages
+i:{a8477c93-1413-4d29-8409-7e3ba55b0bfb}:packages
+i:{aeb23569-1cca-4d08-9d10-993fcc706980}:packages
+++Projects
+i:{2ff36dad-a9eb-430b-9ca5-addd603c4b88}:projects
+i:{e5efcd57-c0aa-4c2a-9309-81f3b1f66951}:projects
+++launchSettings.json
+i:{2ff36dad-a9eb-430b-9ca5-addd603c4b88}:c:\users\usuario\source\repos\socialmedia\socialmedia.api\properties\launchsettings.json
+++ApiResponse.cs
+i:{2ff36dad-a9eb-430b-9ca5-addd603c4b88}:c:\users\usuario\source\repos\socialmedia\socialmedia.api\reponses\apiresponse.cs
+++appsettings.Development.json
+i:{2ff36dad-a9eb-430b-9ca5-addd603c4b88}:c:\users\usuario\source\repos\socialmedia\socialmedia.api\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{2ff36dad-a9eb-430b-9ca5-addd603c4b88}:c:\program files\dotnet\sdk\6.0.301\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{2ff36dad-a9eb-430b-9ca5-addd603c4b88}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.6\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{e5efcd57-c0aa-4c2a-9309-81f3b1f66951}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.6\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{2ff36dad-a9eb-430b-9ca5-addd603c4b88}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.6\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{e5efcd57-c0aa-4c2a-9309-81f3b1f66951}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.6\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{2ff36dad-a9eb-430b-9ca5-addd603c4b88}:c:\program files\dotnet\sdk\6.0.301\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{2ff36dad-a9eb-430b-9ca5-addd603c4b88}:c:\program files\dotnet\sdk\6.0.301\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{2ff36dad-a9eb-430b-9ca5-addd603c4b88}:c:\program files\dotnet\sdk\6.0.301\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{2ff36dad-a9eb-430b-9ca5-addd603c4b88}:c:\program files\dotnet\sdk\6.0.301\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{19d7a6e2-eb91-404f-aabe-0139cb814aa9}:c:\program files\dotnet\sdk\6.0.301\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{e5efcd57-c0aa-4c2a-9309-81f3b1f66951}:c:\program files\dotnet\sdk\6.0.301\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{a8477c93-1413-4d29-8409-7e3ba55b0bfb}:c:\program files\dotnet\sdk\6.0.301\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{aeb23569-1cca-4d08-9d10-993fcc706980}:c:\program files\dotnet\sdk\6.0.301\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{2ff36dad-a9eb-430b-9ca5-addd603c4b88}:c:\program files\dotnet\sdk\6.0.301\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{19d7a6e2-eb91-404f-aabe-0139cb814aa9}:c:\program files\dotnet\sdk\6.0.301\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{e5efcd57-c0aa-4c2a-9309-81f3b1f66951}:c:\program files\dotnet\sdk\6.0.301\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{a8477c93-1413-4d29-8409-7e3ba55b0bfb}:c:\program files\dotnet\sdk\6.0.301\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{aeb23569-1cca-4d08-9d10-993fcc706980}:c:\program files\dotnet\sdk\6.0.301\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{2ff36dad-a9eb-430b-9ca5-addd603c4b88}:c:\users\usuario\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.7\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{e5efcd57-c0aa-4c2a-9309-81f3b1f66951}:c:\users\usuario\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.7\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{2ff36dad-a9eb-430b-9ca5-addd603c4b88}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.6\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{e5efcd57-c0aa-4c2a-9309-81f3b1f66951}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.6\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{2ff36dad-a9eb-430b-9ca5-addd603c4b88}:c:\program files\dotnet\sdk\6.0.301\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{2ff36dad-a9eb-430b-9ca5-addd603c4b88}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.6\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{19d7a6e2-eb91-404f-aabe-0139cb814aa9}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.6\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{e5efcd57-c0aa-4c2a-9309-81f3b1f66951}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.6\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{a8477c93-1413-4d29-8409-7e3ba55b0bfb}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.6\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{aeb23569-1cca-4d08-9d10-993fcc706980}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.6\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{2ff36dad-a9eb-430b-9ca5-addd603c4b88}:c:\users\usuario\source\repos\socialmedia\socialmedia.api\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{2ff36dad-a9eb-430b-9ca5-addd603c4b88}:c:\users\usuario\source\repos\socialmedia\socialmedia.api\microsoft.netcore.app
+i:{19d7a6e2-eb91-404f-aabe-0139cb814aa9}:c:\users\usuario\source\repos\socialmedia\socialmedia.core\microsoft.netcore.app
+i:{e5efcd57-c0aa-4c2a-9309-81f3b1f66951}:c:\users\usuario\source\repos\socialmedia\socialmedia.infrastructure\microsoft.netcore.app
+i:{a8477c93-1413-4d29-8409-7e3ba55b0bfb}:c:\users\usuario\source\repos\socialmedia\socialmedia.unittests\microsoft.netcore.app
+i:{aeb23569-1cca-4d08-9d10-993fcc706980}:c:\users\usuario\source\repos\socialmedia\socialmedia.integraltests\microsoft.netcore.app
+++AutoMapper.Extensions.Microsoft.DependencyInjection (11.0.0)
+i:{2ff36dad-a9eb-430b-9ca5-addd603c4b88}:>1122
+i:{e5efcd57-c0aa-4c2a-9309-81f3b1f66951}:>1118
+++Microsoft.AspNetCore.Authentication.JwtBearer (6.0.7)
+i:{2ff36dad-a9eb-430b-9ca5-addd603c4b88}:>1129
+++Microsoft.AspNetCore.Mvc.NewtonsoftJson (6.0.7)
+i:{2ff36dad-a9eb-430b-9ca5-addd603c4b88}:>1127
+++Microsoft.EntityFrameworkCore.Design (6.0.7)
+i:{2ff36dad-a9eb-430b-9ca5-addd603c4b88}:>1124
+++Swashbuckle.AspNetCore (6.2.3)
+i:{2ff36dad-a9eb-430b-9ca5-addd603c4b88}:>1126
+++System.Net.Primitives (4.3.1)
+i:{2ff36dad-a9eb-430b-9ca5-addd603c4b88}:>1130
+++SocialMedia.Core
+i:{2ff36dad-a9eb-430b-9ca5-addd603c4b88}:c:\users\usuario\source\repos\socialmedia\socialmedia.core\bin\debug\net6.0\socialmedia.core.dll
+i:{00000000-0000-0000-0000-000000000000}:SocialMedia.Core
+i:{e5efcd57-c0aa-4c2a-9309-81f3b1f66951}:c:\users\usuario\source\repos\socialmedia\socialmedia.core\bin\debug\net6.0\socialmedia.core.dll
+++SocialMedia.Infrastructure
+i:{2ff36dad-a9eb-430b-9ca5-addd603c4b88}:c:\users\usuario\source\repos\socialmedia\socialmedia.infrastructure\bin\debug\net6.0\socialmedia.infrastructure.dll
+i:{00000000-0000-0000-0000-000000000000}:SocialMedia.Infrastructure
+++CustomEntities
+i:{19d7a6e2-eb91-404f-aabe-0139cb814aa9}:c:\users\usuario\source\repos\socialmedia\socialmedia.core\customentities\
+++DTOs
+i:{19d7a6e2-eb91-404f-aabe-0139cb814aa9}:c:\users\usuario\source\repos\socialmedia\socialmedia.core\dtos\
+++Entities
+i:{19d7a6e2-eb91-404f-aabe-0139cb814aa9}:c:\users\usuario\source\repos\socialmedia\socialmedia.core\entities\
+++Enumerations
+i:{19d7a6e2-eb91-404f-aabe-0139cb814aa9}:c:\users\usuario\source\repos\socialmedia\socialmedia.core\enumerations\
+++Exceptions
+i:{19d7a6e2-eb91-404f-aabe-0139cb814aa9}:c:\users\usuario\source\repos\socialmedia\socialmedia.core\exceptions\
+++Interfaces
+i:{19d7a6e2-eb91-404f-aabe-0139cb814aa9}:c:\users\usuario\source\repos\socialmedia\socialmedia.core\interfaces\
+i:{e5efcd57-c0aa-4c2a-9309-81f3b1f66951}:c:\users\usuario\source\repos\socialmedia\socialmedia.infrastructure\interfaces\
+++IPostRepository.cs
+i:{19d7a6e2-eb91-404f-aabe-0139cb814aa9}:c:\users\usuario\source\repos\socialmedia\socialmedia.core\interfaces\ipostrepository.cs
+++IPostService.cs
+i:{19d7a6e2-eb91-404f-aabe-0139cb814aa9}:c:\users\usuario\source\repos\socialmedia\socialmedia.core\interfaces\ipostservice.cs
+++IRepository.cs
+i:{19d7a6e2-eb91-404f-aabe-0139cb814aa9}:c:\users\usuario\source\repos\socialmedia\socialmedia.core\interfaces\irepository.cs
+++ISecurityRepository.cs
+i:{19d7a6e2-eb91-404f-aabe-0139cb814aa9}:c:\users\usuario\source\repos\socialmedia\socialmedia.core\interfaces\isecurityrepository.cs
+++ISecurityService.cs
+i:{19d7a6e2-eb91-404f-aabe-0139cb814aa9}:c:\users\usuario\source\repos\socialmedia\socialmedia.core\interfaces\isecurityservice.cs
+++IUnitOfWork.cs
+i:{19d7a6e2-eb91-404f-aabe-0139cb814aa9}:c:\users\usuario\source\repos\socialmedia\socialmedia.core\interfaces\iunitofwork.cs
+++IUserRepository.cs
+i:{19d7a6e2-eb91-404f-aabe-0139cb814aa9}:c:\users\usuario\source\repos\socialmedia\socialmedia.core\interfaces\iuserrepository.cs
+++QueryFilters
+i:{19d7a6e2-eb91-404f-aabe-0139cb814aa9}:c:\users\usuario\source\repos\socialmedia\socialmedia.core\queryfilters\
+++Services
+i:{19d7a6e2-eb91-404f-aabe-0139cb814aa9}:c:\users\usuario\source\repos\socialmedia\socialmedia.core\services\
+i:{e5efcd57-c0aa-4c2a-9309-81f3b1f66951}:c:\users\usuario\source\repos\socialmedia\socialmedia.infrastructure\services\
+++PostService.cs
+i:{19d7a6e2-eb91-404f-aabe-0139cb814aa9}:c:\users\usuario\source\repos\socialmedia\socialmedia.core\services\postservice.cs
+++SecurityService.cs
+i:{19d7a6e2-eb91-404f-aabe-0139cb814aa9}:c:\users\usuario\source\repos\socialmedia\socialmedia.core\services\securityservice.cs
+++Metadata.cs
+i:{19d7a6e2-eb91-404f-aabe-0139cb814aa9}:c:\users\usuario\source\repos\socialmedia\socialmedia.core\customentities\metadata.cs
+++PagedList.cs
+i:{19d7a6e2-eb91-404f-aabe-0139cb814aa9}:c:\users\usuario\source\repos\socialmedia\socialmedia.core\customentities\pagedlist.cs
+++PaginationOptions.cs
+i:{19d7a6e2-eb91-404f-aabe-0139cb814aa9}:c:\users\usuario\source\repos\socialmedia\socialmedia.core\customentities\paginationoptions.cs
+++PostDTO.cs
+i:{19d7a6e2-eb91-404f-aabe-0139cb814aa9}:c:\users\usuario\source\repos\socialmedia\socialmedia.core\dtos\postdto.cs
+++BaseEntity.cs
+i:{19d7a6e2-eb91-404f-aabe-0139cb814aa9}:c:\users\usuario\source\repos\socialmedia\socialmedia.core\entities\baseentity.cs
+++Comment.cs
+i:{19d7a6e2-eb91-404f-aabe-0139cb814aa9}:c:\users\usuario\source\repos\socialmedia\socialmedia.core\entities\comment.cs
+++Post.cs
+i:{19d7a6e2-eb91-404f-aabe-0139cb814aa9}:c:\users\usuario\source\repos\socialmedia\socialmedia.core\entities\post.cs
+++Security.cs
+i:{19d7a6e2-eb91-404f-aabe-0139cb814aa9}:c:\users\usuario\source\repos\socialmedia\socialmedia.core\entities\security.cs
+++SecurityDTO.cs
+i:{19d7a6e2-eb91-404f-aabe-0139cb814aa9}:c:\users\usuario\source\repos\socialmedia\socialmedia.core\entities\securitydto.cs
+++User.cs
+i:{19d7a6e2-eb91-404f-aabe-0139cb814aa9}:c:\users\usuario\source\repos\socialmedia\socialmedia.core\entities\user.cs
+++UserLogin.cs
+i:{19d7a6e2-eb91-404f-aabe-0139cb814aa9}:c:\users\usuario\source\repos\socialmedia\socialmedia.core\entities\userlogin.cs
+++RoleType.cs
+i:{19d7a6e2-eb91-404f-aabe-0139cb814aa9}:c:\users\usuario\source\repos\socialmedia\socialmedia.core\enumerations\roletype.cs
+++BussinesExceptions.cs
+i:{19d7a6e2-eb91-404f-aabe-0139cb814aa9}:c:\users\usuario\source\repos\socialmedia\socialmedia.core\exceptions\bussinesexceptions.cs
+++PostQueryFilter.cs
+i:{19d7a6e2-eb91-404f-aabe-0139cb814aa9}:c:\users\usuario\source\repos\socialmedia\socialmedia.core\queryfilters\postqueryfilter.cs
+++Microsoft.Extensions.Options (6.0.0)
+i:{19d7a6e2-eb91-404f-aabe-0139cb814aa9}:>1113
+++Data
+i:{e5efcd57-c0aa-4c2a-9309-81f3b1f66951}:c:\users\usuario\source\repos\socialmedia\socialmedia.infrastructure\data\
+++Filters
+i:{e5efcd57-c0aa-4c2a-9309-81f3b1f66951}:c:\users\usuario\source\repos\socialmedia\socialmedia.infrastructure\filters\
+++IPasswordHasher.cs
+i:{e5efcd57-c0aa-4c2a-9309-81f3b1f66951}:c:\users\usuario\source\repos\socialmedia\socialmedia.infrastructure\interfaces\ipasswordhasher.cs
+++IUriService.cs
+i:{e5efcd57-c0aa-4c2a-9309-81f3b1f66951}:c:\users\usuario\source\repos\socialmedia\socialmedia.infrastructure\interfaces\iuriservice.cs
+++Options
+i:{e5efcd57-c0aa-4c2a-9309-81f3b1f66951}:c:\users\usuario\source\repos\socialmedia\socialmedia.infrastructure\options\
+++Repositories
+i:{e5efcd57-c0aa-4c2a-9309-81f3b1f66951}:c:\users\usuario\source\repos\socialmedia\socialmedia.infrastructure\repositories\
+++BaseRepository.cs
+i:{e5efcd57-c0aa-4c2a-9309-81f3b1f66951}:c:\users\usuario\source\repos\socialmedia\socialmedia.infrastructure\repositories\baserepository.cs
+++PostRepository.cs
+i:{e5efcd57-c0aa-4c2a-9309-81f3b1f66951}:c:\users\usuario\source\repos\socialmedia\socialmedia.infrastructure\repositories\postrepository.cs
+++SecurityRepository.cs
+i:{e5efcd57-c0aa-4c2a-9309-81f3b1f66951}:c:\users\usuario\source\repos\socialmedia\socialmedia.infrastructure\repositories\securityrepository.cs
+++UnitOfWork.cs
+i:{e5efcd57-c0aa-4c2a-9309-81f3b1f66951}:c:\users\usuario\source\repos\socialmedia\socialmedia.infrastructure\repositories\unitofwork.cs
+++PasswordService.cs
+i:{e5efcd57-c0aa-4c2a-9309-81f3b1f66951}:c:\users\usuario\source\repos\socialmedia\socialmedia.infrastructure\services\passwordservice.cs
+++UriService.cs
+i:{e5efcd57-c0aa-4c2a-9309-81f3b1f66951}:c:\users\usuario\source\repos\socialmedia\socialmedia.infrastructure\services\uriservice.cs
+++Validators
+i:{e5efcd57-c0aa-4c2a-9309-81f3b1f66951}:c:\users\usuario\source\repos\socialmedia\socialmedia.infrastructure\validators\
+++PostValidator.cs
+i:{e5efcd57-c0aa-4c2a-9309-81f3b1f66951}:c:\users\usuario\source\repos\socialmedia\socialmedia.infrastructure\validators\postvalidator.cs
+++Configurations
+i:{e5efcd57-c0aa-4c2a-9309-81f3b1f66951}:c:\users\usuario\source\repos\socialmedia\socialmedia.infrastructure\data\configurations\
+++Mappings
+i:{e5efcd57-c0aa-4c2a-9309-81f3b1f66951}:c:\users\usuario\source\repos\socialmedia\socialmedia.infrastructure\data\mappings\
+++SocialMediaContext.cs
+i:{e5efcd57-c0aa-4c2a-9309-81f3b1f66951}:c:\users\usuario\source\repos\socialmedia\socialmedia.infrastructure\data\socialmediacontext.cs
+++GlobalExceptionFilter.cs
+i:{e5efcd57-c0aa-4c2a-9309-81f3b1f66951}:c:\users\usuario\source\repos\socialmedia\socialmedia.infrastructure\filters\globalexceptionfilter.cs
+++ValidationFilter.cs
+i:{e5efcd57-c0aa-4c2a-9309-81f3b1f66951}:c:\users\usuario\source\repos\socialmedia\socialmedia.infrastructure\filters\validationfilter.cs
+++PasswordOptions.cs
+i:{e5efcd57-c0aa-4c2a-9309-81f3b1f66951}:c:\users\usuario\source\repos\socialmedia\socialmedia.infrastructure\options\passwordoptions.cs
+++FluentValidation.AspNetCore (11.1.2)
+i:{e5efcd57-c0aa-4c2a-9309-81f3b1f66951}:>1120
+++Microsoft.AspNetCore.Mvc.Abstractions (2.2.0)
+i:{e5efcd57-c0aa-4c2a-9309-81f3b1f66951}:>1123
+++Microsoft.AspNetCore.Mvc.Core (2.2.5)
+i:{e5efcd57-c0aa-4c2a-9309-81f3b1f66951}:>1125
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.7)
+i:{e5efcd57-c0aa-4c2a-9309-81f3b1f66951}:>1116
+++Microsoft.EntityFrameworkCore.Tools (6.0.7)
+i:{e5efcd57-c0aa-4c2a-9309-81f3b1f66951}:>1128
+++CommentConfiguration.cs
+i:{e5efcd57-c0aa-4c2a-9309-81f3b1f66951}:c:\users\usuario\source\repos\socialmedia\socialmedia.infrastructure\data\configurations\commentconfiguration.cs
+++PostConfiguration.cs
+i:{e5efcd57-c0aa-4c2a-9309-81f3b1f66951}:c:\users\usuario\source\repos\socialmedia\socialmedia.infrastructure\data\configurations\postconfiguration.cs
+++SecurityConfigurations.cs
+i:{e5efcd57-c0aa-4c2a-9309-81f3b1f66951}:c:\users\usuario\source\repos\socialmedia\socialmedia.infrastructure\data\configurations\securityconfigurations.cs
+++UserConfiguration.cs
+i:{e5efcd57-c0aa-4c2a-9309-81f3b1f66951}:c:\users\usuario\source\repos\socialmedia\socialmedia.infrastructure\data\configurations\userconfiguration.cs
+++AutomapperProfile.cs
+i:{e5efcd57-c0aa-4c2a-9309-81f3b1f66951}:c:\users\usuario\source\repos\socialmedia\socialmedia.infrastructure\data\mappings\automapperprofile.cs
+++Tests
+i:{00000000-0000-0000-0000-000000000000}:Tests
+++SocialMedia.UnitTests
+i:{732726ba-1936-4113-9bd5-394a9fd918db}:SocialMedia.UnitTests
+++UnitTest1.cs
+i:{a8477c93-1413-4d29-8409-7e3ba55b0bfb}:c:\users\usuario\source\repos\socialmedia\socialmedia.unittests\unittest1.cs
+i:{aeb23569-1cca-4d08-9d10-993fcc706980}:c:\users\usuario\source\repos\socialmedia\socialmedia.integraltests\unittest1.cs
+++Usings.cs
+i:{a8477c93-1413-4d29-8409-7e3ba55b0bfb}:c:\users\usuario\source\repos\socialmedia\socialmedia.unittests\usings.cs
+i:{aeb23569-1cca-4d08-9d10-993fcc706980}:c:\users\usuario\source\repos\socialmedia\socialmedia.integraltests\usings.cs
+++xunit.analyzers
+i:{a8477c93-1413-4d29-8409-7e3ba55b0bfb}:c:\users\usuario\.nuget\packages\xunit.analyzers\0.10.0\analyzers\dotnet\cs\xunit.analyzers.dll
+i:{aeb23569-1cca-4d08-9d10-993fcc706980}:c:\users\usuario\.nuget\packages\xunit.analyzers\0.10.0\analyzers\dotnet\cs\xunit.analyzers.dll
+++coverlet.collector (3.1.2)
+i:{a8477c93-1413-4d29-8409-7e3ba55b0bfb}:>1159
+i:{aeb23569-1cca-4d08-9d10-993fcc706980}:>1147
+++Microsoft.NET.Test.Sdk (17.1.0)
+i:{a8477c93-1413-4d29-8409-7e3ba55b0bfb}:>1156
+i:{aeb23569-1cca-4d08-9d10-993fcc706980}:>1144
+++xunit (2.4.1)
+i:{a8477c93-1413-4d29-8409-7e3ba55b0bfb}:>1157
+i:{aeb23569-1cca-4d08-9d10-993fcc706980}:>1145
+++xunit.runner.visualstudio (2.4.3)
+i:{a8477c93-1413-4d29-8409-7e3ba55b0bfb}:>1158
+i:{aeb23569-1cca-4d08-9d10-993fcc706980}:>1146
+++SocialMedia.IntegralTests
+i:{732726ba-1936-4113-9bd5-394a9fd918db}:SocialMedia.IntegralTests
